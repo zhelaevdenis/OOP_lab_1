@@ -1,0 +1,5 @@
+﻿  findtext.cpp
+Y:\repos\findtext\findtext\findtext.cpp(9,50): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  findtext.vcxproj -> Y:\repos\findtext\x64\Debug\findtext.exe
+  test
+  Program testing succeeded
