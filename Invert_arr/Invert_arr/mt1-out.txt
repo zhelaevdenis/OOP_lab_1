@@ -1,0 +1,4 @@
+matrix invert equals:
+1 -1 1 
+-38 41 -34 
+27 -29 24 
